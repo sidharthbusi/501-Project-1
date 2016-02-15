@@ -1,0 +1,46 @@
+    body
+	{
+		background-image:url(background5.jpg) 
+	}
+
+	#body
+	{
+		margin-top : 8%;
+		text-align:center;
+		font-size:1.2em;
+	}
+
+
+	span
+	{
+		color:red;
+	}
+	
+	img 
+	{
+		height:100px;width:250px;margin-left:40%
+	}
+	h1
+	{
+		font-family: "Times New Roman"; font-size:1.7em; font-variant: small-caps; text-align:center;color:black
+	}
+	#navigation
+	{
+
+  		margin-top :5%;
+		font-size:1.5em;
+	}
+	
+	ul
+   {
+	 text-align:center;
+     list-style-type:none;
+     margin:0;
+     padding:0;
+   }
+   li
+   {
+	margin-right:8%;
+	display:inline;
+   }
+	
